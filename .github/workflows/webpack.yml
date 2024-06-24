@@ -25,4 +25,5 @@ jobs:
     - name: Build
       run: |
         npm install --no-fund
+        npm install -D webpack-cli
         npx webpack
