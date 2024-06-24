@@ -1112,7 +1112,7 @@ audio {
 	opacity: 1;
 }
 .p2{
-	background-image: url('/p2.jpeg');
+	background-image: url('p2.jpeg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -1120,7 +1120,7 @@ audio {
 	opacity: 1;
 }
 .p3{
-	background-image: url('/p3.jpeg');
+	background-image: url('p3.jpeg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -1128,7 +1128,7 @@ audio {
 	opacity: 1;
 }
 .p4{
-	background-image: url('/p4.jpeg');
+	background-image: url('p4.jpeg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 100%;
