@@ -108,3 +108,100 @@ Microservices
 <img src="https://streak-stats.demolab.com?user=ayush-pallavpandey&theme=github-dark&hide_border=true"/>
 
 </p>
+## 💻 LeetCode Journey
+
+I solve Data Structures & Algorithms problems daily in Java to strengthen problem-solving skills and prepare for Software Engineering interviews.
+
+### 📈 Current Goal
+
+- 🎯 Solve **500+ LeetCode Problems**
+- ☕ Language: **Java**
+- 📚 Focus:
+  - Arrays
+  - Strings
+  - Linked Lists
+  - Trees
+  - Graphs
+  - Dynamic Programming
+  - Greedy
+  - Binary Search
+
+🔗 **Repository:** https://github.com/ayush-pallavpandey/leetcode-java-solutions
+
+## ☁️ AWS Cloud Journey
+
+Currently learning and building cloud-native applications using AWS.
+
+### Learning Roadmap
+
+- ✅ EC2
+- ✅ IAM
+- ✅ S3
+- ✅ RDS
+- 🔄 Elastic Load Balancer
+- 🔄 Auto Scaling
+- 🔄 VPC
+- 🔄 CloudWatch
+- 🔄 ECS
+- 🔄 CI/CD Deployment
+
+### Current Project
+
+🚀 Dockerized Spring Boot Application deployed on AWS EC2.
+
+## 📜 Certifications
+
+- Oracle Cloud Infrastructure AI Foundations *(In Progress)*
+- Oracle Generative AI Professional *(In Progress)*
+- AWS Cloud Learning Path *(In Progress)*
+- NPTEL Cloud Computing
+
+- ## 🌍 Open Source Goals
+
+- Contribute to Spring Boot ecosystem
+- Improve Java open-source projects
+- Participate in Hacktoberfest
+- Publish reusable backend libraries
+- Build production-ready developer tools
+
+- ## 📚 2026 Learning Roadmap
+
+✅ Core Java
+
+✅ Spring Boot
+
+✅ REST APIs
+
+✅ MySQL
+
+✅ Docker
+
+🔄 AWS
+
+🔄 Spring Security
+
+🔄 JWT
+
+🔄 Microservices
+
+🔄 Kubernetes
+
+🔄 System Design
+
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/ayushpandey-dev
+- 📧 Email: ayushpallav7550@gmail.com
+- 💻 GitHub: https://github.com/ayush-pallavpandey
+
+- ---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+Building • Learning • Improving Every Day 🚀
+
+</p>
+- 
