@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ayush-pallavpandey/ayush-pallavpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/banner.png" width="100%" alt="Ayush Pallav Pandey Banner"/>
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Ayush Pallav Pandey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Java Backend Developer | Spring Boot | AWS | Docker | REST APIs
+
+Building scalable, secure and cloud-ready backend applications using Java and modern technologies.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-year Computer Science Engineering Student
+- ☕ Java Backend Developer
+- 🌱 Currently learning AWS, Microservices, Kubernetes & System Design
+- 💡 Passionate about scalable backend architecture
+- 🚀 Preparing for Software Engineer & Java Backend roles
+
+---
+
+## 🎯 Current Focus
+
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- REST APIs
+- Docker
+- AWS
+- CI/CD
+- Microservices
+- Data Structures & Algorithms
