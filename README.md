@@ -45,10 +45,13 @@
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=eclipseide,vscode,postman,linux"/>
+<<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,linux,idea"/>
 </p>
 
+<p align="center">
+Eclipse IDE • VS Code • Postman • Linux
+</p>
 
 ---
 ## 🚀 Backend Expertise
