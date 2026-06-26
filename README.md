@@ -49,10 +49,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,postman,linux,idea"/>
 </p>
 
-<p align="center">
-Eclipse IDE • VS Code • Postman • Linux
-</p>
-
 ---
 ## 🚀 Backend Expertise
 
