@@ -28,13 +28,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,sql,python"/>
+<img src="https://skillicons.dev/icons?i=java,python"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,mysql"/>
+<img src="https://skillicons.dev/icons?i=spring,mysql,api"/>
 </p>
 
 ### Cloud & DevOps
