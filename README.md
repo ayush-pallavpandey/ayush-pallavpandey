@@ -28,7 +28,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp"/>
+<img src="https://skillicons.dev/icons?i=java,sql,python"/>
 </p>
 
 ### Backend
@@ -40,13 +40,13 @@
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=eclipse ide, vscode,,postman,linux"/>
 </p>
 
 
