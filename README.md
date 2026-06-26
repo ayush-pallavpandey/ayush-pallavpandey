@@ -46,7 +46,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=eclipseide,vscode,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,linux"/>
 </p>
 
 ---
