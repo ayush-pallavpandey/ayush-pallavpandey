@@ -43,6 +43,16 @@
 <img src="https://skillicons.dev/icons?i=aws,git,github"/>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,docker,aws,git,github,vscode,linux" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" alt="Eclipse IDE"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" width="50" alt="Swagger"/>
+</p>
 ### Tools
 
 <p>
