@@ -202,11 +202,3 @@ Currently learning and building cloud-native applications using AWS.
 
 - ---
 
-<p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-Building • Learning • Improving Every Day 🚀
-
-</p>
-- 
